@@ -1,0 +1,84 @@
+# 已删除模组列表
+
+- Advancement Plaques: 进度牌匾
+- Equipment Compare: 装备比较
+- Highlighter: 物品高亮
+- Iceberg: 库
+- AI-Improvements: AI改进
+- Let Me Despawn: 使有装备的怪物自然消失
+- Almanac: 库（Let Me Despawn前置）
+- BadOptimizations: 主要优化非渲染部分的模组
+- Better Biome Reblend: 更好的生物群系过渡
+- Bocchium: 禁用基岩的不可见侧面渲染
+- Botarium: （无用）库
+- Click Machine: 自动连点器
+- Biome size mod by someaddons: 生物群系大小
+- clientcrafting mod by someaddons: 客户端合成
+- Connectivity Mod by someaddons: 修复网络问题的模组
+- fastasyncworldsave mod by someaddons: 异步自动保存
+- Smoothchunk mod by someaddons: 平滑区块保存
+- recipeessentials mod by someaddons: 放个明确不兼容的模组进来是何意味
+
+   > 作者原话：“Incompatible with FastSuite and Not Enough Recipe Book(similar feature set)”。
+
+- Cupboard utilities by someaddons: 库
+- Harvest with ease: 简单收割
+- Cobweb: 库
+- Colorwheel: 使飞轮和Iris兼容的模组
+- Colorwheel Patcher: 自动修补支持的光影包，使其与Colorwheel兼容
+- Controllable: 手柄控制
+- Controlling: 键位冲突显示
+- Searchables: 键位冲突显示的前置模组
+- CorgiLib: （无用）库
+- CosmeticArmorReworked: 时装盔甲
+- CraftPresence: Discord状态
+- UniLib: 库（Craft Presence前置）
+- CreateBetterFps: 提高使用光影玩机械动力的帧数
+- CreateStuffAdditionsFix: 机械动力之物品附加的补丁（原模组已修复）
+- ItemPhysicLite: 物品物理掉落
+- CreativeCore: 库
+- Cull Less Leaves Reforged: 更好的树叶渲染优化
+- Default Server Properties: 默认服务器属性
+- e4mc: 反向代理服务器
+- EntityCulling: 实体渲染机制优化
+- EuphoriaPatcher: Complementary光影补丁
+- Explosive Enhancement: 爆炸动画增强
+- Exposure: 相机
+- Extra Gore: 受伤流姨妈
+- Extreme Sound Muffler: 极致消音器
+- Fancy Trinkets: 精美的小饰品（并非）
+- Fast Leaf Decay: 树叶快速腐烂
+- FastBoot: 刷机工具（不是）
+- Fastload-Reforged: 提高世界加载速度（原理是进游戏前少加载区块，等进游戏后再加载）
+- Flerovium: 优化渲染速度（评论区很多人表示没用）
+- Game Discs: 游戏光碟
+- GPUTape: 修复游戏的显存泄漏问题
+- ImmersiveUI: 拖动物品动画
+- Longer Chat History: 更多聊天记录
+- Loot Journal: 物品拾取提示
+- Sounds: 为游戏添加了各种音效
+- Mineblock's Repeated Utilities: 库
+- Mob Sunscreen: 怪物防晒霜（替代：[Protect Mobs From Daylight](https://modrinth.com/mod/protect-mobs-from-daylight)）
+
+   > 僵尸现在可以在白天被火焰附加，但是“The Hunter”等其他模组的亡灵生物在阳光下会着火
+
+- Resistance Balancer: bug模组还要信雅互联（前置：Necronomicon）
+- Necronomicon: 库（我崩溃了100个存档）
+- Particular: 通过添加视觉（粒子）效果增强氛围感
+- Presence Footsteps \(Forge\): 脚步声
+- Pretty Rain: 粒子雨
+- Radium: 锂的非官方Forge版（替代：[Harium](https://modrinth.com/mod/harium)）
+- Immersive Lanterns: 动态灯笼（前置：TxniLib）
+- Redirected: 减少内存占用（前置：TxniLib）
+- TxniLib: （牢）库
+- Saturn: 现代化修复包括了这个模组的功能
+- Simple Voice Chat: 简易语音
+- Voiceless Survival: 噪音会吸引怪物
+- Smooth Boot \(Reloaded\): 流畅加载重制版
+- Sodium Extras: Embeddium附属（建议使用RuOK或Chloride代替）
+- Sound Physics Remastered: 物理声效重制版
+- Sound of Rain: 雨声
+- The One Probe: 检测器（感觉不如Jade）
+- Tree Harvester: 连锁砍树（替代：[FallingTree](https://modrinth.com/mod/fallingtree)）
+- Vanilla Music Discs: 用唱片收听在后台随机播放的任何原版音乐
+- Vanillin: 优化飞轮~~但是内置飞轮与飞轮打架~~
