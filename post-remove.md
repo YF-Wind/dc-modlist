@@ -18,6 +18,7 @@
 - Artifacts: 奇异饰品
 - Atlas Lib: 库（The Hordes前置）
 - AttributeFix: 移除原版属性限制
+- BadOptimizations: 主要优化非渲染部分的模组
 - BaguetteLib: 库（corpsecurioscompat前置）
 - Balm: 库
 - Bee Fix: 修复了有关蜜蜂的漏洞
@@ -83,6 +84,7 @@
 - Engineered Schematics: 沉浸工程之投影
 - Engineers Delight: 使农夫乐事和沉浸工程兼容的模组
 - Enhanced AI: 怪物AI增强
+- EntityCulling: 实体渲染机制优化
 - Entity Model Features: 实体模型特性
 - Entity Texture Features: 实体纹理特性
 - EntityJS: 自定义实体

@@ -7,7 +7,6 @@
 - AI-Improvements: AI改进
 - Let Me Despawn: 使有装备的怪物自然消失
 - Almanac: 库（Let Me Despawn前置）
-- BadOptimizations: 主要优化非渲染部分的模组
 - Better Biome Reblend: 更好的生物群系过渡
 - Bocchium: 禁用基岩的不可见侧面渲染
 - Botarium: （无用）库
@@ -40,7 +39,6 @@
 - Cull Less Leaves Reforged: 更好的树叶渲染优化
 - Default Server Properties: 默认服务器属性
 - e4mc: 反向代理服务器
-- EntityCulling: 实体渲染机制优化
 - EuphoriaPatcher: Complementary光影补丁
 - Explosive Enhancement: 爆炸动画增强
 - Exposure: 相机

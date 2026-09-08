@@ -11,18 +11,16 @@ Added mods:
 - Harium-mc1.20.1-2.0-cumulative-hotfix-v2.jar
 - Ixeris-4.6.5+1.20.1-forge.jar
 - Jade-1.20.1-Forge-11.13.3.jar
-- JadeAddons-1.20.1-Forge-5.5.1.jar
 - liubai-1.0.2-1.20.1.jar
 - obe+1.20.1-forge-1.1.45-srg.jar
 - particle_core-0.3.3+1.20.1+forge.jar
-- protect-mobs-from-daylight-forge-1.0.1.jar
+- ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar
 
 Removed mods:
 
 - AdvancementPlaques-1.20.1-forge-1.6.9.jar
 - AI-Improvements-1.20-0.5.2.jar
 - almanac-1.20.x-forge-1.0.2.jar
-- BadOptimizations-2.2.3-1.20.1.jar
 - betterbiomereblend-1.5.3.jar
 - biomesize-1.20.1-1.5.jar
 - bocchium-1.20.1-0.0.3.jar
@@ -45,7 +43,6 @@ Removed mods:
 - cupboard-1.20.1-2.7.jar
 - default-server-properties-forge-81.1.0.jar
 - e4mc_minecraft-forge-5.4.1.jar
-- entityculling-forge-1.9.4-mc1.20.1.jar
 - EquipmentCompare-1.20.1-forge-1.3.7.jar
 - EuphoriaPatcher-1.7.8-r5.6.1-forge.jar
 - explosiveenhancement-1.1.0-1.20.1-client-and-server.jar
