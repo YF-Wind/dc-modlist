@@ -4,10 +4,10 @@
 - FallingTree：连锁砍树（包括树叶）
 - fzzy_config：库（Particle Core前置）
 - gnetum：限制HUD帧数（主要针对小地图）
-- Harium：通用优化模组（基于Lithium）
+- Harium：通用优化模组（基于Lithium，代替Radium）
 - Ixeris：解决“移动鼠标时，帧率会有明显下降”的问题
 - Jade：玉（代替The One Probe）
-- liubai：实体剔除（代替Entity Culling）
+- liubai：实体剔除（配合Entity Culling）
 - Optimized Block Entities：方块实体渲染优化
 - Particle Core：粒子渲染优化
 - RuOK: 配合Chloride

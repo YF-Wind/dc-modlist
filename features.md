@@ -125,7 +125,7 @@
 - FastFurnace: 熔炉性能优化
 - Fastload-Reforged: 提高世界加载速度（原理是进游戏前少加载区块，等进游戏后再加载）
 - Ferrite Core: 减少内存占用
-- Flerovium: 优化渲染速度（评论区很多人表示没用）
+- Flerovium: 优化渲染速度
 - FlickerFix: 移除了夜视效果不足10秒时的闪烁
 - Forgified Fabric API: 库
 - Framework: 库
@@ -190,7 +190,7 @@
 - Merge Enchantments: 将不共存魔咒添加到一起
 - Mineblock's Repeated Utilities: 库
 - MmmMmmMmmmmm: 试验假人（Moonlight前置）
-- Mob Sunscreen: 怪物防晒霜（替代：[Protect Mobs From Daylight](https://modrinth.com/mod/protect-mobs-from-daylight)）
+- Mob Sunscreen: 怪物防晒霜
 - Mobtimizations: 通过优化生物的寻路机制，减少其在服务器中对性能的影响
 - Model Gap Fix: 缝隙修复
 - Moderately Enough Effect Descriptions: 药水效果描述
@@ -204,7 +204,7 @@
 - Nameless Trinkets: 无名饰品
 - Naturalist: 自然主义（好像完全没见到过）
 - Nature's Compass: 生物群系指南针
-- Necronomicon: 库（我崩溃了100个存档）
+- Necronomicon: 库
 - Not Enough Recipe Book: 删除配方书
 - OctoLib: 库
 - Oculus: Iris的非官方Forge移植版
@@ -250,7 +250,7 @@
 - Smooth Boot \(Reloaded\): 流畅加载重制版
 - Smoothchunk mod by someaddons: 平滑区块保存
 - Sodium Dynamic Lights: 动态光源
-- Sodium Extras: Embeddium附属（建议使用RuOK或Chloride代替）
+- Sodium Extras: Embeddium附属（推荐使用RuOK或Chloride代替）
 - Sodium Options API: 库
 - Sophisticated Backpacks: 精妙背包
 - Sophisticated Core: 库
@@ -273,7 +273,7 @@
 - TexelsPaintings: 更多的画
 - Texture Locale Redirector: 为游戏资源包添加了原生多语言纹理支持功能
 - The Hordes: 病毒感染和尸潮
-- The One Probe: 检测器（感觉不如Jade）
+- The One Probe: 检测器（我还是更喜欢Jade）
 - Third Person Shooting Zero: 使TaCZ与越肩视角重制兼容
 - This Rocks\! \(Forge\): 小石头
 - Timeless & Classics Guns Zero: TaCZ

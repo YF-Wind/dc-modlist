@@ -48,7 +48,7 @@
 - Fast Leaf Decay: 树叶快速腐烂
 - FastBoot: 刷机工具（不是）
 - Fastload-Reforged: 提高世界加载速度（原理是进游戏前少加载区块，等进游戏后再加载）
-- Flerovium: 优化渲染速度（评论区很多人表示没用）
+- Flerovium: 优化渲染速度
 - Game Discs: 游戏光碟
 - GPUTape: 修复游戏的显存泄漏问题
 - ImmersiveUI: 拖动物品动画
@@ -56,16 +56,13 @@
 - Loot Journal: 物品拾取提示
 - Sounds: 为游戏添加了各种音效
 - Mineblock's Repeated Utilities: 库
-- Mob Sunscreen: 怪物防晒霜（替代：[Protect Mobs From Daylight](https://modrinth.com/mod/protect-mobs-from-daylight)）
-
-   > 僵尸现在可以在白天被火焰附加，但是“The Hunter”等其他模组的亡灵生物在阳光下会着火
-
+- Mob Sunscreen: 怪物防晒霜
 - Resistance Balancer: bug模组还要信雅互联（前置：Necronomicon）
-- Necronomicon: 库（我崩溃了100个存档）
+- Necronomicon: 库
 - Particular: 通过添加视觉（粒子）效果增强氛围感
 - Presence Footsteps \(Forge\): 脚步声
 - Pretty Rain: 粒子雨
-- Radium: 锂的非官方Forge版（替代：[Harium](https://modrinth.com/mod/harium)）
+- Radium: Lithium的非官方Forge版（替代：[Harium](https://modrinth.com/mod/harium)）
 - Immersive Lanterns: 动态灯笼（前置：TxniLib）
 - Redirected: 减少内存占用（前置：TxniLib）
 - TxniLib: （牢）库
@@ -73,10 +70,10 @@
 - Simple Voice Chat: 简易语音
 - Voiceless Survival: 噪音会吸引怪物
 - Smooth Boot \(Reloaded\): 流畅加载重制版
-- Sodium Extras: Embeddium附属（建议使用RuOK或Chloride代替）
+- Sodium Extras: Embeddium附属（推荐使用RuOK或Chloride代替）
 - Sound Physics Remastered: 物理声效重制版
 - Sound of Rain: 雨声
-- The One Probe: 检测器（感觉不如Jade）
+- The One Probe: 检测器（我还是更喜欢Jade）
 - Tree Harvester: 连锁砍树（替代：[FallingTree](https://modrinth.com/mod/fallingtree)）
 - Vanilla Music Discs: 用唱片收听在后台随机播放的任何原版音乐
 - Vanillin: 优化飞轮~~但是内置飞轮与飞轮打架~~
